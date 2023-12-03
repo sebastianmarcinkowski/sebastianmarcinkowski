@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/sebastianmarcinkowski/sebastianmarcinkowski/blob/0b66c8844a4ee620e5a9bbd476337569f4ef7b3c/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Sebastian Marcinkowski</h1>
-<h3 align="center">A passionate full-stack developer from Poland</h3>
+<h3 align="center">A passionate <strong>.NET Developer</strong> from Poland</h3>
 
 <br>
 
