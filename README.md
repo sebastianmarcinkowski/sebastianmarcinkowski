@@ -32,7 +32,12 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,githubactions,postman,docker,linux,bash,vim,powershell" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,githubactions,postman,docker" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,powershell" />
   </a>
 </p>
 
