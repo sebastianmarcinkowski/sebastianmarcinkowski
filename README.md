@@ -7,6 +7,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
+<img height="32" width="32" src="[https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/[ICON SLUG].svg](https://github.com/sebastianmarcinkowski/sebastianmarcinkowski/blob/058c5862875d599d7ee804b712144aa139ee23e3/csharp.svg)" />
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
