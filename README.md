@@ -60,7 +60,7 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianmarcinkowski&show_icons=true&locale=en" alt="sebastianmarcinkowski" /></p>
+<p align="center"><img align="center" src="https://vercel-github-readme-stats-pp87x6ccv.vercel.app/api?username=sebastianmarcinkowski&show_icons=true&locale=en" alt="sebastianmarcinkowski" /></p>
 
 <br>
 
