@@ -48,9 +48,6 @@
   <a href="https://linkedin.com/in/sebastianmarcinkowski" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
-  <a href="https://stackoverflow.com/users/18082848" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow">
-  </a>
 </p>
 
 <br>
