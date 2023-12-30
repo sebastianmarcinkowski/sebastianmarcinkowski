@@ -60,8 +60,8 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://vercel-github-readme-stats-one.vercel.app/api?locale=en&username=sebastianmarcinkowski&show_icons=true&hide=stars,issues&theme=tokyonight" alt="sebastianmarcinkowski" /></p>
+<p align="center"><img align="center" src="https://vercel-github-readme-stats-one.vercel.app/api?locale=en&username=sebastianmarcinkowski&show_icons=true&hide=stars,issues&theme=dark" alt="sebastianmarcinkowski" /></p>
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmarcinkowski&" alt="sebastianmarcinkowski" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmarcinkowski&theme=dark" alt="sebastianmarcinkowski" /></p>
