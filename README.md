@@ -55,8 +55,7 @@
 
 <br>
 
-<h3 align="center">📫 Email</h3>
-<h4 align="center">kontakt@sebastianmarcinkowski.pl</h4>
+<h3 align="center">📫 kontakt@sebastianmarcinkowski.pl 📫</h4>
 
 <br>
 
